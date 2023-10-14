@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="15dp"
+    tools:context=".TopFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/TopFragmentTitle"
+        android:textSize="20sp" />
+
+    <RadioGroup
+        android:id="@+id/rgActivities"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:checkedButton="@+id/rbAIActivity"
+        >
+
+        <RadioButton
+            android:id="@+id/rbAIActivity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/radio_aiactivity_text"
+            />
+
+        <RadioButton
+            android:id="@+id/rbARActivity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/radio_aractivity_text" />
+    </RadioGroup>
+</LinearLayout>
