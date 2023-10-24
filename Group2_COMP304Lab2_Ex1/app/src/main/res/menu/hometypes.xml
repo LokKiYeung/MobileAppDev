@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Appartment"
+        android:id="@+id/menu_appartment"/>
+    <item android:title="Detached Home"
+        android:id="@+id/menu_detached_home"/>
+    <item android:title="Semi-detached Home"
+        android:id="@+id/menu_semi_detached_home"/>
+    <item android:title="Condominium Appartment"
+        android:id="@+id/menu_condominium_appartment"/>
+    <item android:title="Town house"
+        android:id="@+id/menu_town_house"/>
+
+</menu>

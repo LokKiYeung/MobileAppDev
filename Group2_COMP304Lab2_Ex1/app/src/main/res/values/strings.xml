@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LeaseOrRentHome Inc.</string>
+    <string name="payment_methods">Payment methods</string>
+    <string name="cash">Cash</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="debit_card">Debit Card</string>
+    <string name="proceed">Proceed</string>
+    <string name="customer_information">Customer Information</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number_10_digits">Phone Number (10 digits)</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="preferred_name">Preferred name</string>
+    <string name="card_number_14_digits">Card Number (14 digits)</string>
+    <string name="address">Address</string>
+    <string name="check_out">Check-out</string>
+    <string name="make_payment">Make payment</string>
+    <string name="please_pick_a_home_type">Please pick a Home Type</string>
+    <string name="enter">Enter</string>
+    <string name="home">Home</string>
+    <string name="apartment">Apartment</string>
+    <string name="condominium_apartment">Condominium Apartment</string>
+    <string name="detached_home">Detached Home</string>
+    <string name="semi_detached_home">Semi-detached Home</string>
+    <string name="town_house">Town House</string>
+    <string name="home_image">Home Image</string>
+    <string name="full_name">Full name</string>
+    <string name="card_number">Card Number</string>
+    <string name="complete">Complete</string>
+    <string name="pay">Pay</string>
+    <string name="preference_name">home</string>
+</resources>
