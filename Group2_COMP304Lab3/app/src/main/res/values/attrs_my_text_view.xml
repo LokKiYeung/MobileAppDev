@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="MyTextView">
+        <attr name="longDate" format="string" />
+    </declare-styleable>
+</resources>

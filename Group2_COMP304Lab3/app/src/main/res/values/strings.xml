@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Group2_COMP304Lab3</string>
+    <string name="select_exercises_to_demonstrate">Select exercises to demonstrate:</string>
+    <string name="pickTime">Pick Time</string>
+    <string name="clear_canvas">Clear Canvas</string>
+    <string name="exercise_three">Exercise 3</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="help">Use the Arrow keys to draw</string>
+    <string name="line_color">Line Color</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="cyan">Cyan</string>
+    <string name="arrow_keys">Arrow Keys</string>
+    <string name="line_thickness">Line thickness</string>
+    <string name="up">up</string>
+    <string name="left">left</string>
+    <string name="right">right</string>
+    <string name="down">down</string>
+    <string name="canvas">canvas</string>
+    <string name="date">Today\'s Date:</string>
+</resources>
