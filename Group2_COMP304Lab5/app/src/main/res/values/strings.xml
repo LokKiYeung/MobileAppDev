@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Group2_COMP304Lab5</string>
+    <string name="permission_rationale">Location permission needed for core functionality</string>
+    <string name="ok">OK</string>
+    <string name="preference_file_key">com.example.android.while_in_use_location.PREFERENCE_FILE_KEY</string>
+    <string name="no_location_text">No current location</string>
+    <string name="text">text</string>
+    <string name="location">Location</string>
+    <string name="info">Info</string>
+    <string name="landmark_type">Landmark Type</string>
+    <string name="landmark_list">Landmark List</string>
+
+    <string-array name="landmarkTypeArray">
+        <item>Old Buildings</item>
+        <item>Museums</item>
+        <item>Stadiums</item>
+        <item>Attractions</item>
+    </string-array>
+
+    <string-array name="OldBuildings">
+        <item>St. Lawrence Hall</item>
+        <item>Danforth Music Hall</item>
+        <item>Gibraltar Point Lighthouse</item>
+        <item>University of St. Michael\'s College</item>
+        <item>The Toronto Club</item>
+    </string-array>
+
+    <string-array name="OldBuildingsAddress">
+        <item>157 King St E, Toronto, ON M5C 1G9</item>
+        <item>147 Danforth Ave, Toronto, ON M4K 1N2</item>
+        <item>Toronto Island Park - Hanlan\'s Point</item>
+        <item>81 St Mary St, Toronto, ON M5S 1J4</item>
+        <item>107 Wellington St W, Toronto, ON M5J 1H1</item>
+    </string-array>
+
+    <string-array name="Museums">
+        <item>Royal Ontario Museum</item>
+        <item>Aga Khan Museum</item>
+        <item>Art Gallery of Ontario</item>
+        <item>Ontario Science Centre</item>
+    </string-array>
+
+    <string-array name="MuseumsAddress">
+        <item>100 Queens Park, Toronto, ON M5S 2C6</item>
+        <item>77 Wynford Dr, North York, ON M3C 1K1</item>
+        <item>317 Dundas St W, Toronto, ON M5T 1G4</item>
+        <item>770 Don Mills Rd., North York, ON M3C 1T3</item>
+    </string-array>
+
+    <string-array name="Stadiums">
+        <item>Scotiabank Arena</item>
+        <item>Roger Center</item>
+        <item>George Bell Arena</item>
+        <item>BMO Field</item>
+    </string-array>
+
+    <string-array name="StadiumsAddress">
+        <item>40 Bay St., Toronto, ON M5J 2X2</item>
+        <item>1 Blue Jays Way, Toronto, ON M5V 1J1</item>
+        <item>215 Ryding Ave, Toronto, ON M6N 1H6</item>
+        <item>170 Princes\' Blvd, Toronto, ON M6K 3C3</item>
+    </string-array>
+
+    <string-array name="Attractions">
+        <item>CN Tower</item>
+        <item>CF Toronto Eaton Centre</item>
+        <item>Nathan Phillips Square</item>
+        <item>Harbourfront Centre</item>
+    </string-array>
+
+    <string-array name="AttractionsAddress">
+        <item>290 Bremner Blvd, Toronto, ON M5V 3L9</item>
+        <item>220 Yonge St, Toronto, ON M5B 2H1</item>
+        <item>100 Queen St W, Toronto, ON M5H 2N1</item>
+        <item>235 Queens Quay W, Toronto, ON M5J 2G8</item>
+    </string-array>
+
+
+
+</resources>
