@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Group2_COMP304Lab6</string>
+    <string-array name="programs">
+        <item>Artificial Intelligence</item>
+        <item>Computer Systems Technician - Networking</item>
+        <item>Game – Programming</item>
+        <item>Health Informatics Technology</item>
+        <item>Software Engineering Technician</item>
+        <item>Software Engineering Technology</item>
+    </string-array>
+    <string-array name="courses">
+        <item>COMP-261</item>
+        <item>COMP-262</item>
+        <item>COMP-263</item>
+        <item>COMP-264</item>
+        <item>COMP-313</item>
+        <item>EMPS-102</item>
+        <item>GNED</item>
+        <item>CNET-212</item>
+        <item>CNET-221</item>
+        <item>CNET-222</item>
+        <item>CNET-227</item>
+        <item>CNET-304</item>
+        <item>CNET-311</item>
+        <item>EMPS-101</item>
+        <item>COMP-256</item>
+        <item>COMP-308</item>
+        <item>COMP-392</item>
+        <item>COMP-395</item>
+        <item>CNET-307</item>
+        <item>COMP-216</item>
+        <item>COMP-254</item>
+        <item>COMP-255</item>
+        <item>COMP-321</item>
+        <item>COMP-212</item>
+        <item>COMP-231</item>
+        <item>COMP-311</item>
+        <item>COMP-318</item>
+        <item>ELECT 1</item>
+    </string-array>
+    <string-array name="courseDescription">
+        <item>Here is the description\nCode: COMP-261\nName: AI Ethics and Data Governance</item>
+        <item>Here is the description\nCode: COMP-262\nName: Natural Language Processing and Recommender Systems</item>
+        <item>Here is the description\nCode: COMP-263\nName: Deep Learning</item>
+        <item>Here is the description\nCode: COMP-264\nName: Cloud Machine Learning</item>
+        <item>Here is the description\nCode: COMP-313\nName: Software Development Project 2</item>
+        <item>Here is the description\nCode: EMPS-102\nName: Employment Skills 2</item>
+        <item>Here is the description\nCode: GNED\nName: General Education Elective</item>
+        <item>Here is the description\nCode: CNET-212\nName: Virtualization and Cloud Technology</item>
+        <item>Here is the description\nCode: CNET-221\nName: Network Security</item>
+        <item>Here is the description\nCode: CNET-222\nName: Network Services</item>
+        <item>Here is the description\nCode: CNET-227\nName: Technician Project</item>
+        <item>Here is the description\nCode: CNET-304\nName: Wireless Technology</item>
+        <item>Here is the description\nCode: CNET-311\nName: Routing and Switching</item>
+        <item>Here is the description\nCode: EMPS-101\nName: Employment Skills</item>
+        <item>Here is the description\nCode: GNED\nName: General Education Elective</item>
+        <item>Here is the description\nCode: COMP-256\nName: Special Topics in Interactive Gaming</item>
+        <item>Here is the description\nCode: COMP-308\nName: Emerging Technologies</item>
+        <item>Here is the description\nCode: COMP-313\nName: Software Development Project 2</item>
+        <item>Here is the description\nCode: COMP-392\nName: Advanced Graphics</item>
+        <item>Here is the description\nCode: COMP-395\nName: Simulation Design</item>
+        <item>Here is the description\nCode: EMPS-102\nName: Employment Skills 2</item>
+        <item>Here is the description\nCode: CNET-307\nName: IT Project Management</item>
+        <item>Here is the description\nCode: COMP-216\nName: Networking for Software Developers</item>
+        <item>Here is the description\nCode: COMP-254\nName: Data Structures and Algorithms</item>
+        <item>Here is the description\nCode: COMP-255\nName: Business and Entrepreneurship for Software Engineering Technology</item>
+        <item>Here is the description\nCode: COMP-313\nName: Software Development Project 2</item>
+        <item>Here is the description\nCode: COMP-321\nName: Enterprise Systems Integration</item>
+        <item>Here is the description\nCode: EMPS-102\nName: Employment Skills 2</item>
+        <item>Here is the description\nCode: CNET-307\nName: IT Project Management</item>
+        <item>Here is the description\nCode: COMP-212\nName: Programming 3</item>
+        <item>Here is the description\nCode: COMP-231\nName: Software Development Project I</item>
+        <item>Here is the description\nCode: COMP-311\nName: Software Testing and Quality Assurance</item>
+        <item>Here is the description\nCode: COMP-318\nName: Developing UI for Software Devices</item>
+        <item>Here is the description\nCode: EMPS-101\nName: Employment Skills</item>
+        <item>Here is the description\nCode: GNED\nName: General Education Elective</item>
+        <item>Here is the description\nCode: CNET-307\nName: IT Project Management</item>
+        <item>Here is the description\nCode: COMP-216\nName: Networking for Software Developers</item>
+        <item>Here is the description\nCode: COMP-308\nName: Emerging Technologies</item>
+        <item>Here is the description\nCode: COMP-313\nName: Software Development Project 2</item>
+        <item>Here is the description\nCode: COMP-321\nName: Enterprise Systems Integration</item>
+        <item>Here is the description\nCode: ELECT 1\nName: Technical Elective 1</item>
+        <item>Here is the description\nCode: EMPS-102\nName: Employment Skills 2</item>
+
+    </string-array>
+    <!-- AI -->
+    <string-array name="programs0">
+        <item>COMP-261</item>
+        <item>COMP-262</item>
+        <item>COMP-263</item>
+        <item>COMP-264</item>
+        <item>COMP-313</item>
+        <item>EMPS-102</item>
+        <item>GNED</item>
+    </string-array>
+
+    <!-- Computer Systems Technician - Networking -->
+    <string-array name="programs1">
+        <item>CNET-212</item>
+        <item>CNET-221</item>
+        <item>CNET-222</item>
+        <item>CNET-227</item>
+        <item>CNET-304</item>
+        <item>CNET-311</item>
+        <item>EMPS-101</item>
+        <item>GNED</item>
+
+    </string-array>
+
+    <!-- Game – Programming -->
+    <string-array name="programs2">
+        <item>COMP-256</item>
+        <item>COMP-308</item>
+        <item>COMP-313</item>
+        <item>COMP-392</item>
+        <item>COMP-395</item>
+        <item>EMPS-102</item>
+
+    </string-array>
+
+    <!-- Health Informatics Technology -->
+    <string-array name="programs3">
+        <item>CNET-307</item>
+        <item>COMP-216</item>
+        <item>COMP-254</item>
+        <item>COMP-255</item>
+        <item>COMP-313</item>
+        <item>COMP-321</item>
+        <item>EMPS-102</item>
+
+    </string-array>
+
+    <!-- Software Engineering Technician -->
+    <string-array name="programs4">
+        <item>CNET-307</item>
+        <item>COMP-212</item>
+        <item>COMP-231</item>
+        <item>COMP-311</item>
+        <item>COMP-318</item>
+        <item>EMPS-101</item>
+        <item>GNED</item>
+
+    </string-array>
+
+    <!-- Software Engineering Technology -->
+    <string-array name="programs5">
+        <item>CNET-307</item>
+        <item>COMP-216</item>
+        <item>COMP-308</item>
+        <item>COMP-313</item>
+        <item>COMP-321</item>
+        <item>ELECT 1</item>
+        <item>EMPS-102</item>
+    </string-array>
+</resources>
